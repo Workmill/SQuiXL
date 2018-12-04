@@ -1,0 +1,9 @@
+{
+	"postgres_credentials": {
+		"db_host": "localhost",
+		"db_user": "gear_user",
+		"db_password": "Africa21",
+		"db_port": 5432,
+		"db_name": "gear_db"
+	 }
+}
